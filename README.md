@@ -1,6 +1,6 @@
 ﻿# DSE101
 
-<!-- bugs to fix -->
+bugs to fix
 
 1.  when the page loads/refreshes,
     the first slide/image does not show up,
